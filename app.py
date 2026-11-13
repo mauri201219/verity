@@ -34,7 +34,7 @@ h1, h2, h3, p, label, .stMarkdown {
 
 div.stButton > button,
 div.stFormSubmitButton > button {
-    background-color: #244d24;
+    background-color: #0000ff;
     color: white;
     border-radius: 10px;
 }
