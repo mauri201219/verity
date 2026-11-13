@@ -171,4 +171,3 @@ if "nombre" in st.session_state:
     st.balloons()
 
     st.write("¡Gracias por ver nuestro proyecto!")
-```
